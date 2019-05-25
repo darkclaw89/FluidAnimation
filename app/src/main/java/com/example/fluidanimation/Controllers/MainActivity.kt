@@ -1,9 +1,8 @@
-package com.example.cleanmvcjetpack.Controllers
+package com.example.fluidanimation.Controllers
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.cleanmvcjetpack.R
-import com.example.cleanmvcjetpack.Views.MainView
+import com.example.fluidanimation.Views.MainView
 
 class MainActivity : AppCompatActivity() {
 

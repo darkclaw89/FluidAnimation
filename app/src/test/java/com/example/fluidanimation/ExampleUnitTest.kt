@@ -1,4 +1,4 @@
-package com.example.cleanmvcjetpack
+package com.example.fluidanimation
 
 import org.junit.Test
 

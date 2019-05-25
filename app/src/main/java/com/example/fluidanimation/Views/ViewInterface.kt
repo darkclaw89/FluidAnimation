@@ -1,4 +1,4 @@
-package com.example.cleanmvcjetpack.Views
+package com.example.fluidanimation.Views
 
 import android.view.View
 
