@@ -6,7 +6,7 @@ import com.example.fluidanimation.R
 
 class MainView(layoutInflater: LayoutInflater):ViewInterface{
 
-    private var mRootView = layoutInflater.inflate(R.layout.activity_main,null)
+    private var mRootView = layoutInflater.inflate(R.layout.nav_drawer,null)
 
     override fun getRooView(): View {
         return mRootView
